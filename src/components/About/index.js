@@ -1,6 +1,6 @@
 import'./index.scss';
 
-import image from '/Users/useradmin/Library/Mobile Documents/com~apple~CloudDocs/portfolio/portfolio/src/assets/images/kisspng-web-development-3d-computer-graphics-web-design-ma-3d-dental-treatment-for-toothache-5ae321b6e996a3.9721291115248347429568.png';
+import image from '/Users/useradmin/Desktop/React-Portfolio/Portfolio/src/assets/images/kisspng-web-development-3d-computer-graphics-web-design-ma-3d-dental-treatment-for-toothache-5ae321b6e996a3.9721291115248347429568.png';
 
 const About = ()=>{
     return(

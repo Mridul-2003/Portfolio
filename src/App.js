@@ -3,8 +3,8 @@ import {Route,Routes} from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './components/Home/home';
 import About from './components/About';
-import Contact from '/Users/useradmin/Library/Mobile Documents/com~apple~CloudDocs/portfolio/portfolio/src/components/Contact';
-import Projects from '/Users/useradmin/Library/Mobile Documents/com~apple~CloudDocs/portfolio/portfolio/src/components/Projects';
+import Contact from '/Users/useradmin/Desktop/React-Portfolio/Portfolio/src/components/Contact';
+import Projects from '/Users/useradmin/Desktop/React-Portfolio/Portfolio/src/components/Projects';
 function App() {
   return (
     <>

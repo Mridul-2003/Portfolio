@@ -3,7 +3,7 @@ import React from 'react';
 import TypeWriterEffect from 'react-typewriter-effect';
 import AnimatedCursor from "react-animated-cursor"
 import Logo from "./Logo"
-import Resume from "/Users/useradmin/Library/Mobile Documents/com~apple~CloudDocs/portfolio/portfolio/src/assets/resume.pdf"
+import Resume from "/Users/useradmin/Desktop/React-Portfolio/Portfolio/src/assets/resume.pdf"
 const Home = ()=>{
     return(
         <div className="container home-page">

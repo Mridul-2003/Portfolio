@@ -1,8 +1,8 @@
 import './project.scss'
-import image1 from '/Users/useradmin/Library/Mobile Documents/com~apple~CloudDocs/portfolio/portfolio/src/assets/images/p1.png'
-import image2 from '/Users/useradmin/Library/Mobile Documents/com~apple~CloudDocs/portfolio/portfolio/src/assets/images/p2.png'
-import image3 from '/Users/useradmin/Library/Mobile Documents/com~apple~CloudDocs/portfolio/portfolio/src/assets/images/p3.png'
-import image4 from '/Users/useradmin/Library/Mobile Documents/com~apple~CloudDocs/portfolio/portfolio/src/assets/images/p4.png'
+import image1 from '/Users/useradmin/Desktop/React-Portfolio/Portfolio/src/assets/images/p1.png'
+import image2 from '/Users/useradmin/Desktop/React-Portfolio/Portfolio/src/assets/images/p2.png'
+import image3 from '/Users/useradmin/Desktop/React-Portfolio/Portfolio/src/assets/images/p3.png'
+import image4 from '/Users/useradmin/Desktop/React-Portfolio/Portfolio/src/assets/images/p4.png'
 const Projects = ()=>{
  return(
     <>
