@@ -1,0 +1,19 @@
+.logo-container{
+    z-index:-1;
+    width:400px;
+    height:100%;
+    position:absolute;
+    top:0;
+    right:20%;
+    bottom:0;
+    left:auto;
+    margin:auto;
+    
+}
+
+@media screen and (max-width: 600px){
+    .logo-container{
+        display:none;
+       
+    }
+}
