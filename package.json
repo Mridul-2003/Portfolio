@@ -23,7 +23,7 @@
     "react-loader-spinner": "^5.3.4",
     "react-loaders": "^3.0.1",
     "react-router-dom": "^6.10.0",
-    "react-scripts": "2.0.0-next.3e165448",
+    "react-scripts": "5.0.1",
     "react-typewriter-effect": "^1.1.0",
     "sass": "^1.61.0",
     "styled-components": "^5.3.9",
